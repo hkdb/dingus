@@ -120,6 +120,14 @@ sound = "~/sounds/evolution.oga"
 
 **Resolution order**: app + category → app sound → `default_sound`.
 
+
+## ⭐ Useful?
+
+If you find this little utility enjoyable for you too, feel free to give the repo a star or buy me a coffee 👻:
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/3dfosi)
+
+
 ## ⚠️ Disclaimer
 
 This is a hobby project. It targets Linux desktops running PipeWire and an SNI-aware status panel (KDE, Cinnamon, MATE, XFCE, Hyprland with `waybar`, GNOME with the AppIndicator extension). It is not tested across every distro / desktop environment combination — your mileage may vary.
