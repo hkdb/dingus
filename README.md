@@ -16,6 +16,11 @@ Configuration lives at `~/.config/dingus/config.toml` and is auto-generated with
 
 I started this project because I was chasing nostalgia and wanted to use old school ICQ sounds for notifications on the various Linux desktop environments I use. Hence, this app is called dingus. Derived from the "ding" (sound play) of dingus and the fact that I feel like a pretty silly user for wanting this sort of configurability which, "What a dingus" was what we were called a lot by our parents growing up when we were being silly, odd, and most of the time, annoying. 🤪
 
+## 📸 Screenshot
+
+![](docs/ss-rounded.png)
+
+
 ## 📦 Dependencies
 
 Python **3.11+** is required (for `tomllib`), plus python-dbus, PyGObject, AyatanaAppIndicator3, and PipeWire (`pw-play`).
