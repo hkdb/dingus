@@ -16,6 +16,9 @@ Configuration lives at `~/.config/dingus/config.toml` and is auto-generated with
 
 I started this project because I was chasing nostalgia and wanted to use old school ICQ sounds for notifications on the various Linux desktop environments I use. Hence, this app is called dingus. Derived from the "ding" (sound play) of dingus and the fact that I feel like a pretty silly user for wanting this sort of configurability which, "What a dingus" was what we were called a lot by our parents growing up when we were being silly, odd, and most of the time, annoying. 🤪
 
+There is a more practical reason for this utility though. Setting different notification sounds for different apps or types of apps does have productively/focus related perks. Having uniquely identifiable audio categories in notification sound helps me prioritize my focus. For example, if I can simply tell from the sound that it's not something important enough at the moment, I don't even have to move my eyes away to look at the notification at all.
+
+
 ## 📸 Screenshot
 
 ![](docs/ss-rounded.png)
