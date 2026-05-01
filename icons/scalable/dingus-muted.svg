@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="ghostBodyMuted" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c4b5fd"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#ghostBodyMuted)" fill-rule="evenodd" d="M4 30 A28 28 0 0 1 60 30 V58 L56 62 L52 58 L48 62 L44 58 L40 62 L36 58 L32 62 L28 58 L24 62 L20 58 L16 62 L12 58 L8 62 L4 58 Z"/>
+  <rect x="19" y="22.5" width="10" height="3.4" rx="1.7" fill="#1e1b4b"/>
+  <rect x="35" y="22.5" width="10" height="3.4" rx="1.7" fill="#1e1b4b"/>
+  <path fill="#1e1b4b" d="M28.5 32 V36 L23.2 42.4 Q22.5 43.2 23.4 43.2 H40.6 Q41.5 43.2 40.8 42.4 L35.5 36 V32 Q35.5 31 34.5 31 H29.5 Q28.5 31 28.5 32 Z"/>
+  <path fill="none" stroke="#1e1b4b" stroke-width="2.8" stroke-linecap="round" d="M24 48 L40 55 M40 48 L24 55"/>
+</svg>

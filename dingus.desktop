@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=dingus
+Comment=Per-app notification sounds
+Exec=dingus
+Icon=dingus
+Categories=Utility;AudioVideo;
+Terminal=false
+StartupNotify=false

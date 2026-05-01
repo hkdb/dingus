@@ -1,0 +1,11 @@
+*.swp
+*.swo
+.claude
+.crush
+context
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.vscode/
+.idea/
